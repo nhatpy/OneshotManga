@@ -1,0 +1,7 @@
+- A free reading website connects everyone (manga readers and authors) with a user-friendly interface and database integration.
+- Teamsize: 1 members (Personal Project)
+- My role: full-stack developer
+- My responsibilty: Responsible for database design, user-friendly interface building and Restful API development
+- Repositories:
+    - [Frontend](https://github.com/nhatpy/anime-social-fe)
+    - [Backend](https://github.com/nhatpy/anime-social-be)
