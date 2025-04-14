@@ -1,4 +1,4 @@
-- A free reading website connects everyone (manga readers and authors) with a user-friendly interface and database integration.
+- Our website allows users to read, search, rate, and create stories, while also offering chatbot recommendations and real-time notifications, with administrators managing categories, stories, users, and statistics.
 - Teamsize: 1 members (Personal Project)
 - My role: full-stack developer
 - Features: For regular users, they can read manga, search for their favorite ones, leave ratings, and even create their own stories. Additionally, they can use a chatbot to receive personalized story recommendations and get real-time notifications via WebSockets. For administrators, the website allows them to manage categories, stories, and users, as well as view detailed statistics.
