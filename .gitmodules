@@ -1,0 +1,6 @@
+[submodule "anime-social-be"]
+	path = anime-social-be
+	url = https://github.com/nhatpy/anime-social-be.git
+[submodule "anime-social-fe"]
+	path = anime-social-fe
+	url = https://github.com/nhatpy/anime-social-fe.git
