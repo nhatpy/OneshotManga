@@ -2,6 +2,3 @@
 - Teamsize: 1 members (Personal Project)
 - My role: full-stack developer
 - Features: For regular users, they can read manga, search for their favorite ones, leave ratings, and even create their own stories, they can use a chatbot to receive personalized story recommendations and get real-time notifications via WebSockets too. For administrators, the website allows them to manage categories, stories, and users, as well as view detailed statistics. Additionally, website supports Jwt for authenticating and authorizing to access resources. 
-- Repositories:
-    - [Frontend](https://github.com/nhatpy/anime-social-fe)
-    - [Backend](https://github.com/nhatpy/anime-social-be)
